@@ -75,12 +75,12 @@ Pypi install PyQt5 requests
 
 
 
-1.  运行程序：
+3.  运行程序：
 
 
 
 ```
-python Pypi\_mirror\_manager.py
+python main.py
 ```
 
 ### 使用方法
