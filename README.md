@@ -1,12 +1,12 @@
-# Pip 源管理工具
+# Pypi 源管理工具
 
-一个用于测试、管理和切换 Python Pip 镜像源的图形化工具，帮助用户快速找到最快的 Pip 源并一键应用配置。
+一个用于测试、管理和切换 Python Pypi 镜像源的图形化工具，帮助用户快速找到最快的 Pypi 源并一键应用配置。
 
 ## 功能特性
 
 
 
-*   🚀 自动测试多个主流 Pip 镜像站的连接延迟
+*   🚀 自动测试多个主流 Pypi 镜像站的连接延迟
 
 *   🔍 按延迟自动排序，直观展示各镜像站速度
 
@@ -22,7 +22,7 @@
 
 ## 支持的镜像站
 
-包含国内主流 Pip 镜像源和官方源：
+包含国内主流 Pypi 镜像源和官方源：
 
 
 
@@ -70,7 +70,7 @@
 
 
 ```
-pip install PyQt5 requests
+Pypi install PyQt5 requests
 ```
 
 
@@ -80,7 +80,7 @@ pip install PyQt5 requests
 
 
 ```
-python pip\_mirror\_manager.py
+python Pypi\_mirror\_manager.py
 ```
 
 ### 使用方法
@@ -119,11 +119,11 @@ python pip\_mirror\_manager.py
 
 ## 许可证
 
-本项目采用 GPC-3.0 许可证 - 详见 LICENSE 文件
+本项目采用 GPL-3.0 许可证 - 详见 LICENSE 文件
 
 ## 致谢
 
-感谢所有提供公共 Pip 镜像服务的机构和组织
+感谢所有提供公共 Pypi 镜像服务的机构和组织
 
 ## 反馈与贡献
 
